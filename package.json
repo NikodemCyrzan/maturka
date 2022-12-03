@@ -1,0 +1,19 @@
+{
+  "name": "maturka",
+  "version": "1.0.0",
+  "description": "✔ - umiem\r     ❌ - nie umiem\r     🤏 - średnio umiem\r     ✍ - umiem, ale do poćwiczenia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikodemCyrzan/maturka.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikodemCyrzan/maturka/issues"
+  },
+  "homepage": "https://github.com/NikodemCyrzan/maturka#readme"
+}
