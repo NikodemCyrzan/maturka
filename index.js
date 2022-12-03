@@ -14,6 +14,7 @@ async function main() {
         data.fields.forEach((field) => {
             if (field.text == change.text) {
                 field.status = change.status;
+                field.accuracy = change.accuracy;
             }
         });
     });
@@ -82,7 +83,9 @@ function dataToMd(data) {
                 : status == "repeat"
                 ? "✍"
                 : ""
-        } \`${level}${groupsCounter}.${fieldsCounter}.\` ${text}`;
+        } \`${level}${groupsCounter}.${fieldsCounter}.\`${
+            field.accuracy != null ? ` **dokładność ${field.accuracy}%**` : ""
+        } ${text}`;
 
         prevField = field;
     });
