@@ -19,7 +19,7 @@ async function main() {
         });
     });
 
-    fs.writeFile(path.resolve(__dirname, "./README.md"), dataToMd(data));
+    fs.writeFile(path.resolve(__dirname, "./test.md"), dataToMd(data));
 }
 
 function dataToMd(data) {
