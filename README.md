@@ -82,7 +82,7 @@
     - [ ] ✍ `r7.1.` stosuje twierdzenia charakteryzujące czworokąty wpisane w okrąg i czworokąty opisane na okręgu
     - [ ] ❌ `r7.2.` stosuje twierdzenie Talesa i twierdzenie odwrotne do twierdzenia Talesa do obliczania długości odcinków i ustalania równoległości prostych
     - [ ] ❌ `r7.3.` rozpoznaje figury podobne; wykorzystuje (także w kontekstach praktycznych) ich własności
-    - [x] ❌ `r7.4.` znajduje związki miarowe w figurach płaskich z zastosowaniem twierdzenia sinusów i twierdzenia cosinusów
+    - [ ] ❌ `r7.4.` znajduje związki miarowe w figurach płaskich z zastosowaniem twierdzenia sinusów i twierdzenia cosinusów
 8. **Geometria na płaszczyźnie kartezjańskiej.**
     - [x] ✔ `p8.1.` wyznacza równanie prostej przechodzącej przez dwa dane punkty (w postaci kierunkowej lub ogólnej)
     - [x] ✔ `p8.2.` bada równoległość i prostopadłość prostych na podstawie ich równań kierunkowych
@@ -102,21 +102,18 @@
     - [ ] ❌ `p9.3.` stosuje trygonometrię do obliczeń długości odcinków, miar kątów, pól powierzchni i objętości graniastosłupów
     - [ ] ❌ `r9.1.` określa, jaką figurą jest dany przekrój graniastosłupa płaszczyzną
 10. **Elementy statystyki opisowej. Teoria prawdopodobieństwa i kombinatoryka**
-
--   [ ] ❌ `r10.1.` zlicza obiekty w prostych sytuacjach kombinatorycznych, niewymagających użycia wzorów kombinatorycznych, stosuje regułę mnożenia i regułę dodawania
--   [ ] ❌ `r10.2.` oblicza prawdopodobieństwa w prostych sytuacjach, stosując klasyczną definicję prawdopodobieństwa
--   [ ] ❌ `r10.3.` wykorzystuje wzory na liczbę permutacji, kombinacji, wariacji i wariacji z powtórzeniami do zliczania obiektów w sytuacjach kombinatorycznych
--   [ ] ❌ `r10.4.` oblicza prawdopodobieństwo warunkowe
--   [ ] ❌ `r10.5.` korzysta z twierdzenia o prawdopodobieństwie całkowitym
-
+    - [ ] ❌ `r10.1.` zlicza obiekty w prostych sytuacjach kombinatorycznych, niewymagających użycia wzorów kombinatorycznych, stosuje regułę mnożenia i regułę dodawania
+    - [ ] ❌ `r10.2.` oblicza prawdopodobieństwa w prostych sytuacjach, stosując klasyczną definicję prawdopodobieństwa
+    - [ ] ❌ `r10.3.` wykorzystuje wzory na liczbę permutacji, kombinacji, wariacji i wariacji z powtórzeniami do zliczania obiektów w sytuacjach kombinatorycznych
+    - [ ] ❌ `r10.4.` oblicza prawdopodobieństwo warunkowe
+    - [ ] ❌ `r10.5.` korzysta z twierdzenia o prawdopodobieństwie całkowitym
 11. **Rachunek różniczkowy**
-
--   [ ] ❌ `r11.1.` oblicza granice funkcji (i granice jednostronne), korzystając z twierdzeń o działaniach na granicach i z własności funkcji ciągłych
--   [x] ✔ `r11.2.` oblicza pochodne funkcji wymiernych
--   [x] ✔ `r11.3.` korzysta z geometrycznej interpretacji pochodnej
--   [x] ✔ `r11.4.` korzysta z własności pochodnej do wyznaczenia przedziałów monotoniczności funkcji
--   [x] ✔ `r11.4.` znajduje ekstrema funkcji wielomianowych i wymiernych
--   [ ] ✍ `r11.5.` stosuje pochodne do rozwiązywania zagadnień optymalizacyjnych
+    - [ ] ❌ `r11.1.` oblicza granice funkcji (i granice jednostronne), korzystając z twierdzeń o działaniach na granicach i z własności funkcji ciągłych
+    - [x] ✔ `r11.2.` oblicza pochodne funkcji wymiernych
+    - [x] ✔ `r11.3.` korzysta z geometrycznej interpretacji pochodnej
+    - [x] ✔ `r11.4.` korzysta z własności pochodnej do wyznaczenia przedziałów monotoniczności funkcji
+    - [x] ✔ `r11.4.` znajduje ekstrema funkcji wielomianowych i wymiernych
+    - [ ] ✍ `r11.5.` stosuje pochodne do rozwiązywania zagadnień optymalizacyjnych
 
 ## Fizyka
 
