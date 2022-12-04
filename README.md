@@ -121,10 +121,10 @@
 
 1. **Ruch punktu materialnego**
     - [ ] ✍ rozróżnia wielkości wektorowe od skalarnych; wykonuje działania na wektorach (dodawanie, odejmowanie, rozkładanie na składowe)
-    - [ ] ✍ opisuje ruch w różnych układach odniesienia
-    - [ ] ✍ oblicza prędkości względne dla ruchów wzdłuż prostej
-    - [ ] ✍ wykorzystuje związki pomiędzy położeniem, prędkością i przyspieszeniem w ruchu jednostajnym i jednostajnie zmiennym do obliczania parametrów ruchu
-    - [ ] ✍ rysuje i interpretuje wykresy zależności parametrów ruchu od czasu
+    - [x] ✔ opisuje ruch w różnych układach odniesienia
+    - [x] ✔ oblicza prędkości względne dla ruchów wzdłuż prostej
+    - [x] ✔ wykorzystuje związki pomiędzy położeniem, prędkością i przyspieszeniem w ruchu jednostajnym i jednostajnie zmiennym do obliczania parametrów ruchu
+    - [x] ✔ rysuje i interpretuje wykresy zależności parametrów ruchu od czasu
     - [ ] ✍ oblicza parametry ruchu podczas swobodnego spadku i rzutu pionowego
     - [ ] ✍ opisuje swobodny ruch ciał, wykorzystując pierwszą zasadę dynamiki Newtona
     - [ ] ✍ wyjaśnia ruch ciał na podstawie drugiej zasady dynamiki Newtona

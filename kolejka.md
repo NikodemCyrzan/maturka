@@ -57,17 +57,6 @@
 
 ## Poziom 1
 
--   [ ] ✍ rozróżnia wielkości wektorowe od skalarnych; wykonuje działania na wektorach (dodawanie, odejmowanie, rozkładanie na składowe)
-
--   [ ] ✍ opisuje ruch w różnych układach odniesienia
--   [ ] ✍ oblicza prędkości względne dla ruchów wzdłuż prostej
--   [ ] ✍ wykorzystuje związki pomiędzy położeniem, prędkością i przyspieszeniem w ruchu jednostajnym i jednostajnie zmiennym do obliczania parametrów ruchu
--   [ ] ✍ rysuje i interpretuje wykresy zależności parametrów ruchu od czasu
--   [ ] ✍ oblicza parametry ruchu podczas swobodnego spadku i rzutu pionowego
--   [ ] ✍ opisuje swobodny ruch ciał, wykorzystując pierwszą zasadę dynamiki Newtona
--   [ ] ✍ wyjaśnia ruch ciał na podstawie drugiej zasady dynamiki Newtona
--   [ ] ✍ stosuje trzecią zasadę dynamiki Newtona do opisu zachowania się ciał
--   [ ] ❌ wykorzystuje zasadę zachowania pędu do obliczania prędkości ciał podczas zderzeń niesprężystych i zjawiska odrzutu
 -   [ ] ❌ wyjaśnia różnice między opisem ruchu ciał w układach inercjalnych i nieinercjalnych, posługuje się siłami bezwładności do opisu ruchu w układzienie inercjalnym
 -   [ ] ❌ posługuje się pojęciem siły tarcia do wyjaśniania ruchu ciał
 -   [ ] ✍ składa i rozkłada siły działające wzdłuż prostych nierównoległych
@@ -162,3 +151,12 @@
 -   [ ] ❌ obrazów optycznych otrzymywanych za pomocą soczewek (np. wyznaczenie powiększenia obrazu i porównanie go z powiększeniem obliczonym teoretycznie)
 
 ## Poziom 2
+
+-   [ ] ✍ rozróżnia wielkości wektorowe od skalarnych; wykonuje działania na wektorach (dodawanie, odejmowanie, rozkładanie na składowe)
+    -   Matemaks, podstawy https://www.youtube.com/watch?v=WCOChZ-BaCM
+    -   Chwila dla Debila, iloczyn wektorowy https://www.youtube.com/watch?v=ikgxgyINbhQ
+-   [ ] ✍ oblicza parametry ruchu podczas swobodnego spadku i rzutu pionowego
+-   [ ] ✍ opisuje swobodny ruch ciał, wykorzystując pierwszą zasadę dynamiki Newtona
+-   [ ] ✍ wyjaśnia ruch ciał na podstawie drugiej zasady dynamiki Newtona
+-   [ ] ✍ stosuje trzecią zasadę dynamiki Newtona do opisu zachowania się ciał
+-   [ ] ❌ wykorzystuje zasadę zachowania pędu do obliczania prędkości ciał podczas zderzeń niesprężystych i zjawiska odrzutu
