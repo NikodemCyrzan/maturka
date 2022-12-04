@@ -3,7 +3,7 @@
 ## Poziom 1
 
 -   [ ] 🤏 `p1.6.` wykorzystuje definicję logarytmu i stosuje w obliczeniach wzory na logarytm iloczynu, logarytm ilorazu i logarytm potęgi o wykładniku naturalnym
--   [ ] `p1.8.` wykonuje obliczenia procentowe, oblicza podatki, zysk z lokat (również złożonych na procent składany i na okres krótszy niż rok)
+-   [ ] 🤏 `p1.8.` wykonuje obliczenia procentowe, oblicza podatki, zysk z lokat (również złożonych na procent składany i na okres krótszy niż rok)
 -   [ ] 🤏 `r1.2.` stosuje w obliczeniach wzór na logarytm potęgi oraz wzór na zamianę podstawy logarytmu
 -   [ ] ❌ `r2.2.` dzieli wielomiany prez dwumian ax + b
 -   [ ] ✍ `r2.6.` dodaje, odejmuje, moży i dzieli wyrażenia wymierne; rozszerza i skraca wyrażenia wymierne
